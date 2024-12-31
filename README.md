@@ -1,5 +1,6 @@
 # store_sales_01
 #DataScience #Supervised #Regression
+#Objective : To determine sales on particular month in order to improve work flow/job task.
 
 #Data
 Id - an Id that represents a (Store, Date) duple within the test set
